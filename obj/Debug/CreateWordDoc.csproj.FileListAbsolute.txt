@@ -1,0 +1,12 @@
+C:\Users\jared\source\repos\CreateWordDoc\bin\Debug\CreateWordDoc.exe.config
+C:\Users\jared\source\repos\CreateWordDoc\bin\Debug\CreateWordDoc.exe
+C:\Users\jared\source\repos\CreateWordDoc\bin\Debug\CreateWordDoc.pdb
+C:\Users\jared\source\repos\CreateWordDoc\bin\Debug\aa\CreateWordDoc.resources.dll
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.CreateWordDoc.resources
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.Properties.Resources.resources
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.CreateWordDoc.aa.resources
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\aa\CreateWordDoc.resources.dll
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.exe
+C:\Users\jared\source\repos\CreateWordDoc\obj\Debug\CreateWordDoc.pdb
