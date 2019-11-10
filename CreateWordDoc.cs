@@ -99,7 +99,7 @@ namespace CreateWordDoc
 
         private void SaveDocument(Word.Application wordApp)
         {
-            object fileName = "C:\\Users\\jared\\Desktop\\test.pdf";
+            object fileName = "C:\\Users\\jared\\Desktop\\test.docx";
             object missing = Type.Missing;
             wordApp.ActiveDocument.SaveAs2(ref fileName, ref missing, ref missing, ref missing,
                                             ref missing, ref missing, ref missing, ref missing,
